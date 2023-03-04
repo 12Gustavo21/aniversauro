@@ -1,24 +1,23 @@
-# Aniversauro
+# Finn form
 
-**Technologies**
+> Status : Finished project ✅ / Open PR
 
-+ HTML5
-+ CSS3
+## Funny personal project
 
-<div align="center">
- <img src="assets/Aniversauro.jpg" alt="Aniversauro"/>
-</div>
+<img width ='600px' src ='https://media.discordapp.net/attachments/1000858323026989078/1081396583377154109/image.png?width=1242&height=583' />
+
+*Technologies*
+
++ Html5 <img width="15px" src="https://cdn-icons-png.flaticon.com/512/4943/4943029.png" />
++ Css3 <img width="15px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
 
 ### How to use
- <div>
-  <ul align="left">
-   <li>git clone <a>https://github.com/12Gustavo21/Portflow.git</a></li>
-   <li>code .</li>
-   <li>Start a Live Server</li>
-  </ul>
-  <img src="assets/Coitadossauro-icon.webp" alt="Icon" width="200" height="200" align="right" />
- </div>
  
- ## Online Page: https://12gustavo21.github.io/aniversauro
+ - git clone https://github.com/12Gustavo21/aniversauro.git
+ - code .
+ - start a Live Server
  
- ## Está afim de mandar os parabéns para um amigo seu e não sabe como? Sim? Então é só mandar o site do github pages que está no "about".
+ ## 💻 Online Page: https://12gustavo21.github.io/aniversauro
+
+## 🌐 Contact me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gualmda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-almeida-421044246)
