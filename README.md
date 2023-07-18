@@ -13,8 +13,8 @@
 
 ### How to use
  
- - git clone https://github.com/12Gustavo21/aniversauro.git
- - code .
+ - git clone https://github.com/12Gustavo21/aniversauro.git or download the zip
+ - code . (if you use VSCode)
  - start a Live Server
  
  ## 💻 Online Page: https://12gustavo21.github.io/aniversauro
